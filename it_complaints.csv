@@ -1,0 +1,37 @@
+Complaint,Category
+My WiFi is not working,Network Issue
+Internet is not working,Network Issue
+WiFi connection is lost,Network Issue
+I cannot connect to WiFi,Network Issue
+Network is not available,Network Issue
+Internet connection is slow,Network Issue
+I forgot my password,Login/Password Issue
+I cannot remember my password,Login/Password Issue
+My password is not working,Login/Password Issue
+I cannot login,Login/Password Issue
+My account is locked,Login/Password Issue
+Login password problem,Login/Password Issue
+My keyboard is not working,Hardware Issue
+My mouse is not working,Hardware Issue
+My computer is not starting,Hardware Issue
+My laptop is not working,Hardware Issue
+Computer hardware problem,Hardware Issue
+My screen is not working,Hardware Issue
+My printer is not working,Printer Issue
+Printer is not printing,Printer Issue
+Printer is offline,Printer Issue
+Printer shows an error,Printer Issue
+I cannot print documents,Printer Issue
+Printer is not responding,Printer Issue
+My email is not working,Email Issue
+I cannot send email,Email Issue
+I cannot receive email,Email Issue
+My email account is not opening,Email Issue
+Email is not sending,Email Issue
+I have an email problem,Email Issue
+Software is not working,Software Issue
+Application is not opening,Software Issue
+My software keeps crashing,Software Issue
+I cannot install the software,Software Issue
+Program is not responding,Software Issue
+Application has an error,Software Issue
